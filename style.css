@@ -8,6 +8,10 @@ body {
 	color: hsl(96 4% 11%);
 }
 
+html {
+	scroll-behavior: smooth;
+}
+
 h1 {
 	font-weight: 300;
 	font-size: 30px;
